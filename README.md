@@ -1,1 +1,1 @@
-# task-learn-javascript
+# 2 task programming
